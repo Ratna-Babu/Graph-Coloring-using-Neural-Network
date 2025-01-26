@@ -1,4 +1,4 @@
-# Graph-Coloring-using-Neural-Network
+# Graph Coloring using Graph Convolutional Network (GCN)
 
 This project is about graph coloring using Neural Networks (NNs) applied to graph-structured data, specifically the Cora citation network dataset. The project implements a Graph Convolutional Network (GCN) model to predict node classes (colors) for graph coloring, with an emphasis on hyperparameter tuning, early stopping, and learning rate scheduling.
 
